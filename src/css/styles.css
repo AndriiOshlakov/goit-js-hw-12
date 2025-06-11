@@ -117,3 +117,24 @@ button {
   width: 360px;
   height: 200px;
 }
+
+.load-btn {
+  border-radius: 8px;
+  border: none;
+  padding: 8px 16px;
+  width: 125px;
+  height: 40px;
+  background: #4e75ff;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #fff;
+  margin: 0 auto;
+  display: block;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
