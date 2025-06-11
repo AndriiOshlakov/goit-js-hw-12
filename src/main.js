@@ -15,7 +15,7 @@ const form = document.querySelector('form');
 const loadButton = document.querySelector('.load-btn');
 
 let currentPage = 1;
-let perPage = 150;
+let perPage = 15;
 let currentQuery = '';
 hideLoader();
 
