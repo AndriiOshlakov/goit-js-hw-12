@@ -32,6 +32,7 @@ form.addEventListener('submit', async event => {
     return;
   }
 
+  currentPage = 1;
   currentQuery = query;
 
   clearGallery();
